@@ -1,5 +1,5 @@
 {
-  "homepage": "http://brahmarshi-jasti.github.io/jasti-brahmarshi-portfolio",
+  "homepage": "https://jasti-portfolio-7d5k.vercel.app",
   "name": "jasti-brahmarshi-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -12,12 +12,9 @@
     "framer-motion": "^10.16.4",
     "lottie-react": "^2.4.0",
     "react": "^18.2.0",
-    "react-3d-carousel": "^0.0.6",
-    "react-alice-carousel": "^2.7.1",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
     "react-responsive-carousel": "^3.2.23",
-    "react-reveal": "^1.2.2",
     "react-scripts": "5.0.1",
     "react-tilt": "^1.0.2",
     "web-vitals": "^2.1.4"
