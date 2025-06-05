@@ -1,5 +1,4 @@
 {
-  "homepage": "http://brahmarshi-jasti.github.io/jasti-brahmarshi-portfolio",
   "name": "jasti-brahmarshi-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +11,6 @@
     "framer-motion": "^10.16.4",
     "lottie-react": "^2.4.0",
     "react": "^18.2.0",
-    "react-3d-carousel": "^0.0.6",
     "react-alice-carousel": "^2.7.1",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
@@ -24,9 +22,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
+    "build": "CI=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
